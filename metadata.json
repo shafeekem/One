@@ -1,0 +1,6 @@
+{
+  "name": "JUPITER Cybersecurity Operations Platform",
+  "description": "Secure, mobile-first cybersecurity operations web platform providing unified SOC monitoring, authorized security assessments, isolated tool execution, incident response, and threat intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
